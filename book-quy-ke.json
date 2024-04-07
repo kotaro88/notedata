@@ -1,0 +1,87 @@
+{
+  "id": "quy-ke",
+  "categoryName": "Quỷ kế",
+  "books": [
+    {
+      "id": "47-quy-ke",
+      "bookTitle": "BỐN MƯƠI BẢY QUỶ KẾ",
+      "chapters": [
+        {
+          "id": "intro",
+          "title": "Quỷ cốc tử",
+          "content": "https://raw.githubusercontent.com/kotaro88/notedata/main/md/quy_ke/intro.md"
+        },
+        {
+          "id": "chuong-1",
+          "title": "Quỷ cốc tử – con người và cuốn sách kì lạ xưa nay",
+          "content": "https://raw.githubusercontent.com/kotaro88/notedata/main/md/quy_ke/chuong-1.md"
+        },
+        {
+          "id": "chuong-2-1",
+          "title": "Tiết 1:THUẬT MỞ ĐÓNG ( bãi hạp chi thuật)",
+          "content": "https://raw.githubusercontent.com/kotaro88/notedata/main/md/quy_ke/chuong-2-1.md"
+        },
+        {
+          "id": "chuong-2-2",
+          "title": "Tiết 2: SÁCH PHẢN ỨNG (Phản ứng chi sách)",
+          "content": "https://raw.githubusercontent.com/kotaro88/notedata/main/md/quy_ke/chuong-2-2.md"
+        },
+        {
+          "id": "chuong-2-3",
+          "title": "Tiết 3:KẾ SÁCH VẸN TOÀN (Nội kiện chi sách)",
+          "content": "https://raw.githubusercontent.com/kotaro88/notedata/main/md/quy_ke/chuong-2-3.md"
+        },
+        {
+          "id": "chuong-2-4",
+          "title": "Tiết 4:SÁCH LƯỢC TÌM KẼ HỞ (Hư khích chi sách)",
+          "content": "https://raw.githubusercontent.com/kotaro88/notedata/main/md/quy_ke/chuong-2-4.md"
+        },
+        {
+          "id": "chuong-2-5",
+          "title": "Tiết 5 :TỰ DO VÀ KIỀM CHẾ (Phi kiềm chi thuật)",
+          "content": "https://raw.githubusercontent.com/kotaro88/notedata/main/md/quy_ke/chuong-2-5.md"
+        },
+        {
+          "id": "chuong-2-6",
+          "title": "Tiết 6 :THEO HAY BỎ (Phản hợp chi thuật)",
+          "content": "https://raw.githubusercontent.com/kotaro88/notedata/main/md/quy_ke/chuong-2-6.md"
+        },
+        {
+          "id": "chuong-2-7",
+          "title": "Tiết 7: PHÁN ĐOÁN CÂN NHẮC (Suỷ tình chi thuật)",
+          "content": "https://raw.githubusercontent.com/kotaro88/notedata/main/md/quy_ke/chuong-2-7.md"
+        },
+        {
+          "id": "chuong-2-8",
+          "title": "Tiết 8 :XUNG KÍCH (Ma ý chi thuật)",
+          "content": "https://raw.githubusercontent.com/kotaro88/notedata/main/md/quy_ke/chuong-2-8.md"
+        },
+        {
+          "id": "chuong-2-9",
+          "title": "Tiết 9 :CÂN NHẮC NẶNG NHẸ (Quyền hành chi thuật)",
+          "content": "https://raw.githubusercontent.com/kotaro88/notedata/main/md/quy_ke/chuong-2-9.md"
+        },
+        {
+          "id": "chuong-2-10",
+          "title": "Tiết 10 :MƯU LƯỢC (Mưu lược chi đạo)",
+          "content": "https://raw.githubusercontent.com/kotaro88/notedata/main/md/quy_ke/chuong-2-10.md"
+        },
+        {
+          "id": "chuong-2-11",
+          "title": "Tiết 11 :QUYẾT ĐỊNH (Quyết sách chi thuật)",
+          "content": "https://raw.githubusercontent.com/kotaro88/notedata/main/md/quy_ke/chuong-2-11.md"
+        },
+        {
+          "id": "chuong-2-12",
+          "title": "Tiết 12 :LỜI NÓI VÀ SỰ THẬT(Phù ngôn chi thuật)",
+          "content": "https://raw.githubusercontent.com/kotaro88/notedata/main/md/quy_ke/chuong-2-12.md"
+        },
+        {
+          "id": "chuong-2-13",
+          "title": "Tiết 13 : CỨU NGUY (Đảo nguy chi sách)",
+          "content": "https://raw.githubusercontent.com/kotaro88/notedata/main/md/quy_ke/chuong-2-13.md"
+        }
+      ]
+    }
+  ]
+}
